@@ -24,19 +24,6 @@ Verdict: Google chooses high benchmark scores and advertising revenue over the f
 CONCLUSION
 This is no longer a technical bug. This is Corporate Negligence. By granting the "Play Protect" seal to hardware with active Zeus anchors, Google is providing the infrastructure for the next global financial collapse.
 The evidence is public. The logic is irrefutable.
-Signed, L## VI. FORENSIC EVIDENCE (CAPTURES)
-
-### A. AI & Bot Validation
-*Proof of Google's system acknowledging the threat as actionable.*
-
-![Bot Confirmation](Screenshot_20260128-181207%20%281%29.png)
-
-### B. Human Suppression
-*Proof of the case being closed as 'Intended Behavior' by a moderator.*
-
-![Human Closure](Screenshot_20260128-181156%20%281%29.png)
-
-### C. System Obstruction
-*Error 400 triggered when auditing the compromised Case ID.*
-
-![Error 400](Screenshot_20260128-182814.png)
+Signed, L 
+https://github.com/Audit-L-Project/Google-Security-Audit-Case-479267132/blob/main/Screenshot_20260128-181207%20(1).png
+https://github.com/Audit-L-Project/Google-Security-Audit-Case-479267132/blob/main/Screenshot_20260128-181156%20(1).png
